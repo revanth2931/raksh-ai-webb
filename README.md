@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL**: [Deploy URL Placeholder]
+
 
 ## AI-Powered Emergency Triage System
 
